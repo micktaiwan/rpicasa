@@ -1,0 +1,1 @@
+Download, manage your picasa photos with this command line tool written in Ruby.
